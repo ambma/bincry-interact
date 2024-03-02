@@ -1,0 +1,22 @@
+{
+  "name": "bincry-interact",
+  "version": "0.1.0",
+  "description": "A Node.js module for interacting with Binance API and Ethereum smart contracts.",
+  "main": "bincry-interact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ambma/bincry-interact.git"
+  },
+  "keywords": ["bincry", "binance", "ethereum", "smart-contract", "api"],
+  "author": "ambma",
+  "license": "MIT",
+  "homepage": "https://github.com/ambma/bincry-interact",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "ethers": "^5.5.4",
+    "node-binance-api": "^1.1.2"
+  }
+}
